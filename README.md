@@ -1,4 +1,4 @@
-# react-native-user-list
+# react-native-users-list
 
 ## Setup
 
